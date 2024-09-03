@@ -4,8 +4,8 @@ Planisuss
 1. The Planisuss world
 The Planisuss world is constituted of a single continent which is populated by three species: Veg- etob, Erbast, and Carviz. In the simulation, several individuals of the species interact evolving their population under the rules explained in the next sections.
 
-**2. The ecosystem
-**Three species populates Planisuss:
+**2. The ecosystem**
+Three species populates Planisuss:
 Vegetob (pl. Vegetob) is a vegetable species. Spontaneously grows on the ground with a regular cycle. Vegetob is the nutrient of Erbast.
 Erbast (pl. Erbast) is a herbivore species. Erbast eat the Vegetob. Can move on the continent to find better living conditions. Individuals can group forming a herd.
 Carviz (pl. Carviz) is a carnivore species. Carviz predate Erbast. Can move on the continent to find better living conditions. Individuals can group forming a pride.
